@@ -60,6 +60,10 @@ body {
   font-weight: 700;
 }
 
+.profile-name {
+  font-size: 1em;
+}
+
 .profile-age {
   font-weight: 400;
   color: var(--darkGrayishBlue);
