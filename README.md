@@ -35,4 +35,3 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Author
 
 - Frontend Mentor - [@Odalloc](https://www.frontendmentor.io/profile/Odalloc)
-- Linkedln - [@MACollado](https://www.linkedin.com/in/maria-andrea-collado-b7533b23a/)
